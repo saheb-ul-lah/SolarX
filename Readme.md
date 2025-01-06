@@ -86,7 +86,7 @@ SolarX is a modern, responsive website designed to showcase solar energy solutio
 ### Steps to Run the Project
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/SolarX.git
+   git clone https://github.com/saheb-ul-lah/SolarX.git
    cd SolarX
    ```
 
@@ -161,8 +161,6 @@ Contributions are welcome! If you'd like to contribute to the SolarX project, fo
 
 For inquiries or support, please contact:
 
-- **Email**: info@solarx.com
-- **Website**: [www.solarx.com](https://www.solarx.com)
 - **GitHub**: [Your GitHub Profile](https://github.com/saheb-ul-lah)
 
 ---
