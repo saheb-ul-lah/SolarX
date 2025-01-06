@@ -161,7 +161,7 @@ Contributions are welcome! If you'd like to contribute to the SolarX project, fo
 
 For inquiries or support, please contact:
 
-- **GitHub**: [Your GitHub Profile](https://github.com/saheb-ul-lah)
+- **GitHub**: (https://github.com/saheb-ul-lah)
 
 ---
 
